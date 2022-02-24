@@ -1,2 +1,1 @@
-# TIL
-#include <stdio.h>
+# TI
